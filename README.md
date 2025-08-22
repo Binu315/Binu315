@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Binu315/Binu315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Meher Afroz Binu! 👋
 
-Here are some ideas to get you started:
+🎓 **Student | Computer Science & Engineering**  
+Currently exploring the world of Software Quality Assurance (SQA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 👨‍💻 I’m a CSE student with a passion for learning new technologies and best practices in software development and testing.
+- 💡 Currently focusing on SQA, testing tools, and building robust web applications.
+- 🌱 Always eager to learn and improve my skills!
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** HTML, CSS, JavaScript, SQL, C++, Java, Python
+- **Frameworks & Libraries:** React
+- **Tools:** Git, Figma, Postman, JMeter, Jira, Trello
+
+---
+
+
+
+## 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/meher-afroz-binu)
+
