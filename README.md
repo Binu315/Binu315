@@ -1,22 +1,35 @@
-# Hello there, I'm **Meher Afroz Binu!** 👋
+# 👋 Hello, I'm **Meher Afroz Binu**
 
-🎓 **Student | Computer Science & Engineering**
-Currently exploring the world of **Software Quality Assurance (SQA)**.
+🎓 **CSE Graduate** | 🧪 **SQA Engineer (Manual & Automation)** | ⚡ **Test Automation Enthusiast**
 
-## **👨‍💻  About Me**
+---
+## About Me
 
-* I’m a CSE student with a passion for learning new technologies and best practices in software development and testing.
-*  Currently focusing on SQA, testing tools, and building robust web applications.
-*  Always eager to learn and improve my skills!
+* Skilled in **Manual Testing** (Test Case Design, Bug Reporting, Requirement Analysis)
+* Currently learning and practicing **Automation Testing** with **Java, Selenium, TestNG, Maven**
+* Passionate about delivering **quality software** through both manual & automated approaches.
 
-## 🛠️ **Skills & Tools**
+## Skills
 
-* **Languages:** HTML, CSS, JavaScript, SQL, C++, Java, Python
-* **Frameworks & Libraries:** React
-* **Tools:** Git, Figma, Postman, JMeter, Jira, Trello
+**Testing**
+* Manual Testing (Test Case Writing, Bug Reporting, Test Execution)
+* Automation Testing (Selenium WebDriver, TestNG, Maven)
+* API Testing (Postman)
+* Performance Testing (JMeter)
 
-## 🌐 **Connect with Me**
+**Programming & Markup**
+* Java, Python, C++, JavaScript, SQL, HTML, CSS
+
+**Collaboration & Tools**
+* Git, GitHub
+* Jira, Trello
+---
+## 🌐 Connect with Me
 
 * [LinkedIn](www.linkedin.com/in/meher-afroz-binu)
+* [GitHub](https://github.com/Binu315)
+* [Email](meherafrozbinu@gmail.com)
+
+
 
 
